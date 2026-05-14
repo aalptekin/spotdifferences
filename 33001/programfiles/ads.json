@@ -1,0 +1,123 @@
+{
+  "ads": [
+    {
+      "id": "1",
+      "adfilename": "nuanciaad1.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "2",
+      "adfilename": "nuanciaad2.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "3",
+      "adfilename": "nuanciaad3.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "4",
+      "adfilename": "nuanciaad4.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "5",
+      "adfilename": "nuanciaad5.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "6",
+      "adfilename": "nuanciaad6.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "7",
+      "adfilename": "nuanciaad7.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "8",
+      "adfilename": "nuanciaad8.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "9",
+      "adfilename": "nuanciaad9.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "10",
+      "adfilename": "nuanciaad10.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "11",
+      "adfilename": "nuanciaad11.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "12",
+      "adfilename": "nuanciaad12.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "13",
+      "adfilename": "nuanciaad13.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "14",
+      "adfilename": "nuanciaad14.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "15",
+      "adfilename": "nuanciaad15.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "16",
+      "adfilename": "nuanciaad16.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    },
+    {
+      "id": "17",
+      "adfilename": "nuanciaad17.png",
+      "duration": 10,
+      "startdate": "2025-06-10",
+      "enddate": "2026-12-10"
+    }
+  ]
+}
